@@ -8,5 +8,6 @@ _If you see 'Lotus' references here and there is because Hanami used to be call 
 - [Jason Charnes](https://twitter.com/jmcharnes) - [A Handy Look at Hanami](https://www.youtube.com/watch?v=99mCHPZ-Qro) - @ [Daze Conf 2016](http://www.codedaze.io/)
 - [Anton Davydov](https://twitter.com/anton_davydov) - [Viewing Ruby Blossom](https://www.youtube.com/watch?v=3L6I4UoK8xM) - @ [EURUKO 2016](http://euruko2016.org/)
 - [Simon Carletti](https://twitter.com/weppos) - [Developing and Maintaining a Platform With Rails and Lotus](https://www.youtube.com/watch?v=FkWt7ep5XRM) - @ [RailsConf 2016](http://railsconf.com/2016/program)
+- [Luca Guidi](https://twitter.com/jodosha) - [Introduction to Hamani](https://www.youtube.com/watch?v=roePP0WVAg4) - @ [Cleveland Ruby Brigade](https://www.meetup.com/ClevelandRuby/)
 - [Norman Ancajas](https://twitter.com/nbancajas) - [Hanami Framework](https://www.youtube.com/watch?v=2V4_qjOl68w) - @ [Philippine Ruby Users Group February 2016 meetup](https://www.meetup.com/ruby-phil/events/228765148/)
 - [Luca Guidi](https://twitter.com/jodosha) - [Towards a better web development with Lotus](https://www.youtube.com/watch?v=3GOHlXEeToM) - @ [RubyConf Portugal 2015](http://rubyconf.pt/)
