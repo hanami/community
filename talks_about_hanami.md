@@ -3,7 +3,7 @@
 _If you see 'Lotus' references here and there is because Hanami used to be call Lotus until the beginning of 2016. Here is a [straightforward explanation](http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html) about it._
 
 - [Christophe Philemotte](https://twitter.com/_toch) - [Building a Web API with Hanami](https://speakerdeck.com/toch/build-a-web-api-with-hanami) - @ [ConFoo.CA 2017](https://confoo.ca/en)
-- [Luca Guidi](https://twitter.com/jodosha) - [Lessons Learned While Building Hanami](https://speakerdeck.com/jodosha/lessons-learned-while-building-hanami) - @ [RubyDay IT 2016](http://www.rubyday.it/)
+- [Luca Guidi](https://twitter.com/jodosha) - [Lessons Learned While Building Hanami](https://speakerdeck.com/jodosha/lessons-learned-while-building-hanami) ([video](https://www.youtube.com/watch?v=0RyitUKfUFE)) - @ [RubyDay IT 2016](http://www.rubyday.it/)
 - [Christophe Philemotte](https://twitter.com/_toch) - [Building a Web API with Hanami](https://speakerdeck.com/toch/build-a-web-api-with-hanami) - @ [TakeOffConf 2016](http://takeoffconf.com/2016)
 - [Jason Charnes](https://twitter.com/jmcharnes) - [A Handy Look at Hanami](https://www.youtube.com/watch?v=99mCHPZ-Qro) - @ [Daze Conf 2016](http://www.codedaze.io/)
 - [Anton Davydov](https://twitter.com/anton_davydov) - [Viewing Ruby Blossom](https://www.youtube.com/watch?v=3L6I4UoK8xM) - @ [EURUKO 2016](http://euruko2016.org/)
